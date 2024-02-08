@@ -23,4 +23,8 @@ NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=sender-id
 NEXT_PUBLIC_FIREBASE_APP_ID=app-id
 NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID=analytic-id
 ```
+Run Your Next
 
+```
+npm run dev
+```
