@@ -1,4 +1,4 @@
-# Codelab Documentation
+# NextJs & Firebase Documentation
 
 # Set up
 
